@@ -1,17 +1,19 @@
-# Hi, I'm CalmAy
+# Hi, I'm CalmAy 👋
 
-I'm building my path into **cloud security** through hands-on projects in **web application security**, **Python tooling**, **recon**, and **ethical hacking**.
+I'm building my path into **cloud security** by creating real projects in **web application security**, **Python tooling**, **reconnaissance**, and **ethical hacking**.
+
+I care about learning by doing — not just collecting buzzwords.
 
 ## Current Focus
 - Cloud security fundamentals
 - Web application pentesting
 - Python security tooling
-- Bug bounty methodology
-- OSINT and reconnaissance workflows
+- Bug bounty workflows
+- OSINT and reconnaissance
 
-## Building
-- [HeaderHound](https://github.com/Calm-Ay/headerhound) — Python web header and misconfiguration scanner
-- More security-focused projects coming soon
+## What I'm Building
+- [HeaderHound](https://github.com/Calm-Ay/headerhound) — a Python web header and misconfiguration scanner for lightweight security testing and recon
+- More hands-on security projects are on the way
 
 ## Tools and Interests
 - Python
@@ -21,5 +23,11 @@ I'm building my path into **cloud security** through hands-on projects in **web 
 - Security research
 - Cloud security
 
-## Goal
-To grow into a strong cloud security engineer by building real tools and learning through practical security work.
+## Long-Term Goal
+To become a strong **cloud security engineer** by building practical tools, studying real attack surfaces, and improving through consistent hands-on work.
+
+## Philosophy
+- Learn deeply
+- Build publicly
+- Stay ethical
+- Keep improving
