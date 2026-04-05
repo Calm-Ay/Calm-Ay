@@ -31,3 +31,5 @@ To become a strong **cloud security engineer** by building practical tools, stud
 - Build publicly
 - Stay ethical
 - Keep improving
+- Web App/API Security
+- AI/LLM Security
